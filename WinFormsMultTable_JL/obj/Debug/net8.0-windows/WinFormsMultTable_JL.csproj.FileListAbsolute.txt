@@ -1,0 +1,16 @@
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\bin\Debug\net8.0-windows\WinFormsMultTable_JL.exe
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\bin\Debug\net8.0-windows\WinFormsMultTable_JL.deps.json
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\bin\Debug\net8.0-windows\WinFormsMultTable_JL.runtimeconfig.json
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\bin\Debug\net8.0-windows\WinFormsMultTable_JL.dll
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\bin\Debug\net8.0-windows\WinFormsMultTable_JL.pdb
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\obj\Debug\net8.0-windows\WinFormsMultTable_JL.Form1.resources
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\obj\Debug\net8.0-windows\WinFormsMultTable_JL.csproj.GenerateResource.cache
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\obj\Debug\net8.0-windows\WinFormsMultTable_JL.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\obj\Debug\net8.0-windows\WinFormsMultTable_JL.AssemblyInfoInputs.cache
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\obj\Debug\net8.0-windows\WinFormsMultTable_JL.AssemblyInfo.cs
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\obj\Debug\net8.0-windows\WinFormsMultTable_JL.csproj.CoreCompileInputs.cache
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\obj\Debug\net8.0-windows\WinFormsMultTable_JL.dll
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\obj\Debug\net8.0-windows\refint\WinFormsMultTable_JL.dll
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\obj\Debug\net8.0-windows\WinFormsMultTable_JL.pdb
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\obj\Debug\net8.0-windows\WinFormsMultTable_JL.genruntimeconfig.cache
+C:\C#\Forms\WinFormsMultTable_JL\WinFormsMultTable_JL\obj\Debug\net8.0-windows\ref\WinFormsMultTable_JL.dll
